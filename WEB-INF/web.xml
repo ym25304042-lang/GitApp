@@ -9,6 +9,4 @@
     <servlet-name>gitinput</servlet-name>
     <url-pattern>/gitinput</url-pattern>
 </servlet-mapping>
-
-
 </web-app>
